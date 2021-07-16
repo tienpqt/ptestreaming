@@ -1,0 +1,24 @@
+[
+    [
+        {
+            "OutputKey": "CognitoUserPoolId",
+            "OutputValue": "us-east-1_b3HBFYbqN"
+        },
+        {
+            "OutputKey": "CognitoClientId",
+            "OutputValue": "1a158jqrhth9ms6gh5a5muaj11"
+        },
+        {
+            "OutputKey": "HttpApiEndpoint",
+            "OutputValue": "https://e2ifym1bgh.execute-api.us-east-1.amazonaws.com/test"
+        },
+        {
+            "OutputKey": "Region",
+            "OutputValue": "us-east-1"
+        },
+        {
+            "OutputKey": "WebsocketApiEndpoint",
+            "OutputValue": "wss://1icfp77o2j.execute-api.us-east-1.amazonaws.com/test"
+        }
+    ]
+]
